@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yurit\\source\\repos\\totvs-challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA4144-9478-4F73-8B54-22C88239256B}|Test\\Test.csproj|c:\\users\\yurit\\source\\repos\\totvs-challenge\\test\\validator\\registerclientcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA4144-9478-4F73-8B54-22C88239256B}|Test\\Test.csproj|solutionrelative:test\\validator\\registerclientcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterClientCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\yurit\\source\\repos\\totvs-challenge\\Test\\Validator\\RegisterClientCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Test\\Validator\\RegisterClientCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\yurit\\source\\repos\\totvs-challenge\\Test\\Validator\\RegisterClientCommandValidatorTest.cs",
+              "RelativeToolTip": "Test\\Validator\\RegisterClientCommandValidatorTest.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:26:34.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
