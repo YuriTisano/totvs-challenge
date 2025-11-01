@@ -43,7 +43,7 @@ namespace Api.Controllers
 
         }
 
-        [HttpPost("Auth")]
+        [HttpPost]
         [AllowAnonymous]
         [ProducesResponseType(typeof(Domain.Dto.AuthResponseDto), 200)]
         [ProducesResponseType(401)]

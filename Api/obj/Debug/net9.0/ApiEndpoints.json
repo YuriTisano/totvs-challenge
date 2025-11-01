@@ -2,7 +2,7 @@
   {
     "ContainingType": "Api.Controllers.AuthController",
     "Method": "Auth",
-    "RelativePath": "Auth/Auth",
+    "RelativePath": "Auth",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
