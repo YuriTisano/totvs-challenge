@@ -51,8 +51,7 @@
               "RelativeToolTip": "Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-01T16:43:25.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T16:43:25.593Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:42:54.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T16:42:54.646Z"
             }
           ]
         }
